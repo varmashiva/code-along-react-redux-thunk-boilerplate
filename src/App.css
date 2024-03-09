@@ -1,0 +1,18 @@
+#root {
+  width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  background-color: white;
+  padding: 0%;
+  color: black;
+  text-align: center;
+}
+
+.container {
+  margin: 0vh auto;
+  width: 100%;
+}
